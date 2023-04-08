@@ -59,11 +59,7 @@ const createDigits = () => {
          <button onClick={()  => updateCalc('-')}>-</button>
 
           <button onClick={deleteAll}>CE</button>
-        
-
-          
          
-          
           </div>
 
         <div className="digits">
